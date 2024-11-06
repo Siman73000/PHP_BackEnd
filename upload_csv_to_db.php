@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost";
-$username = "dev";
-$password = 'dsVZ"^78/7S';
-$dbname = "cardstock_dev_0";
+$servername = "xxxxxxxxx";
+$username = "xxxxxxxxx";
+$password = 'xxxxxxxxxxx';
+$dbname = "xxxxxxxxxxx";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
